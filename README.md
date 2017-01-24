@@ -1,6 +1,7 @@
 ECMAScript compatibility tables
 ==================================================
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/70a680b8da8f41c59a7e24514f766721)](https://www.codacy.com/app/HolySynnr/compat-table?utm_source=github.com&utm_medium=referral&utm_content=HolySynnr/compat-table&utm_campaign=badger)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kangax/compat-table?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/kangax/es5-compat-table/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
